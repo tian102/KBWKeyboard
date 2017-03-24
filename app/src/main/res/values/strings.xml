@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KBW Keyboard</string>
+    <string name="my_keyboard">KBW Keyboard</string>
+    <string name="subtype_en_US">English (US)</string>
+    <string name="title_activity_barcode_scan">BarcodeScan</string>
+    <string name="Scan_Cancelled">Scan Cancelled</string>
+    <string name="Scan_Null">Scan Result = null</string>
+</resources>
